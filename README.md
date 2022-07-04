@@ -1,8 +1,20 @@
 # Kimchi Merken Store
 
-## Es una tienda de artesania (ilustraciones,pinturas, porcelana, etc) y comida alternativa (sin gluten, vegan, raw), con claro sentido a lo sustentable, practicas e información al respecto
+## Es una tienda de artesania (ilustraciones,pinturas, porcelana, etc) y comida alternativa (sin gluten, vegan, raw), con claro sentido a lo sustentable, practicas e información al respecto.
 
-## * [Guias de estilos](https://github.com/atomicblonde89/kimchimerkenstore/blob/main/static/assets/img/guidestyle.png)
+#### Dependencias
+
+* Bootstrap-vue
+* SASS / SCSS
+* Vue2-animate
+* Nuxt.js
+* Vue-router
+* VUEX
+* Firebase
+* Heroku or Netlify
+
+## [Guias de estilos](https://github.com/atomicblonde89/kimchimerkenstore/blob/main/static/assets/img/guidestyle.png)
+
 ##
 
 
