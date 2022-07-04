@@ -1,4 +1,11 @@
-# kimchimerkenstore
+# Kimchi Merken Store
+
+## Es una tienda de artesania (ilustraciones,pinturas, porcelana, etc) y comida alternativa (sin gluten, vegan, raw), con claro sentido a lo sustentable, practicas e información al respecto
+
+## * [Guias de estilos](https://github.com/atomicblonde89/kimchimerkenstore/blob/main/static/assets/img/guidestyle.png)
+##
+
+
 
 ## Build Setup
 
