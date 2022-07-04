@@ -14,7 +14,7 @@
 * Heroku or Netlify
 
 ## [Guias de estilos](https://github.com/atomicblonde89/kimchimerkenstore/blob/main/static/assets/img/guidestyle.png)
-
+![gato](https://github.com/atomicblonde89/kimchimerkenstore/blob/main/static/assets/img/guidestyle.png)
 ##
 
 
